@@ -1,8 +1,8 @@
 # Repositorio General de contenido de la Saga "El Padrino" de Mario Puzo
 
-## ¡¡Recomendamos tener un adblock!!
+## ¡¡Recomendamos tener un adblock 🛑!!
 
-## LIBROS EN AMAZON:
+## LIBROS EN AMAZON 📙:
 - ["El Padrino" - Mario Puzo](http://exe.io/Libro-El-Padrino-Amazon)
 - ["Familia Corleone" - Ed Falco - Mario Puzo](http://exe.io/Libro-Familia-Corleone-Amazon)
 - ["Omertà" - Mario Puzo](http://exe.io/Libro-Omerta-Amazon)
@@ -12,13 +12,13 @@
 
 -----
 
-## LIBROS PDF:
+## LIBROS PDF 📄:
 - ["El Padrino" - Mario Puzo](http://exe.io/Libro-El-Padrino-PDF)
 - ["Familia Corleone" - Ed Falco - Mario Puzo](http://exe.io/Libro-Familia-Corleone-PDF)
 
 -----
 
-## PELÍCULAS ONLINE:
+## PELÍCULAS ONLINE 📽:
 - [El Padrino - Primera Parte](http://exe.io/Pelicula-Padrino-1)
 - [El Padrino - Segunda Parte](http://exe.io/Pelicula-Padrino-2)
 - [El Padrino - Tercera Parte](http://exe.io/Pelicula-Padrino-3)
